@@ -1,6 +1,6 @@
 # kristāls
 
-A (hopefully) faster implementation of the Vardi VM in Crystal.
+A [Crystal](https://crystal-lang.org) implementation of the [Vardi VM](https://github.com/vardivm/). 
 
 ## Installation
 
@@ -24,5 +24,5 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[@ceigey]](https://github.com/[ceigey]) Christian Meredith - maintainer
-- [[@chrysophylax]](https://github.com/[chrysophylax]) Billy J. Beltran - fixes
+- [@ceigey](https://github.com/[ceigey]) Christian Meredith - maintainer
+- [@chrysophylax](https://github.com/[chrysophylax]) Billy J. Beltran - fixes
