@@ -1,0 +1,13 @@
+name: kristals
+version: 0.1.0
+
+authors:
+  - Billy J. Beltran <billy@redpill-linpro.com>
+
+targets:
+  kristals:
+    main: src/kristals.cr
+
+crystal: 0.24.1
+
+license: MIT
