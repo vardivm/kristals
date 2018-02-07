@@ -12,6 +12,8 @@ TODO: Write usage instructions here
 
 ## Development
 
+Stay (type) safe!
+
 TODO: Write development instructions here
 
 ## Contributing
